@@ -1,4 +1,4 @@
-# Stopwatch Application - Flutter and Dart
+# Stopwatch App - Flutter and Dart
 
 Welcome to the Stopwatch application, a meticulously designed and crafted timekeeping tool developed using Flutter and Dart in the Android Studio environment. 
 
